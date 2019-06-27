@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^3.19.8",
+    "expo": "^33.0.7",
+    "expo-server-sdk": "^3.3.0",
+    "firebase": "^6.2.3",
+    "firebase-tools": "^7.0.2",
+    "lodash": "^4.17.11",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "resize-image": "^0.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
