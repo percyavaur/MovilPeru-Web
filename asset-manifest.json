@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/movilperu/static/css/main.b421c2c7.chunk.css",
+    "main.js": "/movilperu/static/js/main.8dc7f743.chunk.js",
+    "main.js.map": "/movilperu/static/js/main.8dc7f743.chunk.js.map",
+    "runtime~main.js": "/movilperu/static/js/runtime~main.69c700b3.js",
+    "runtime~main.js.map": "/movilperu/static/js/runtime~main.69c700b3.js.map",
+    "static/css/2.39bbabe8.chunk.css": "/movilperu/static/css/2.39bbabe8.chunk.css",
+    "static/js/2.87c479ca.chunk.js": "/movilperu/static/js/2.87c479ca.chunk.js",
+    "static/js/2.87c479ca.chunk.js.map": "/movilperu/static/js/2.87c479ca.chunk.js.map",
+    "index.html": "/movilperu/index.html",
+    "precache-manifest.f68108f8628d930cdfba5591e8cc2cfc.js": "/movilperu/precache-manifest.f68108f8628d930cdfba5591e8cc2cfc.js",
+    "service-worker.js": "/movilperu/service-worker.js",
+    "static/css/2.39bbabe8.chunk.css.map": "/movilperu/static/css/2.39bbabe8.chunk.css.map",
+    "static/css/main.b421c2c7.chunk.css.map": "/movilperu/static/css/main.b421c2c7.chunk.css.map"
+  }
+}
